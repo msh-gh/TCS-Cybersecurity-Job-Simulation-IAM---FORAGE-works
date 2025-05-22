@@ -1,0 +1,22 @@
+TASK 1
+---------
+
+What you'll learn
+Key concepts of IAM
+The role of IAM in cybersecurity and its importance in modern enterprises
+
+What you'll do
+Explore the basics of IAM, its components, and its significance
+Analyze case studies to understand how IAM can mitigate security risks
+Complete a multiple-choice quiz to demonstrate your understanding
+
+
+My Works
+---------
+1. Learnt about IAM
+
+2. Learnt how TCS incorporates IAM practices
+
+3. Analyses two case studies - healthcare industry data breaches and bank - unauthorized access and phishing on customers .. and how incorporating IAM practices enabled safe industry.
+
+4. test with 8 mcqs was conducted and I cleared it with 100% accuracy which tested my understanding so far.
